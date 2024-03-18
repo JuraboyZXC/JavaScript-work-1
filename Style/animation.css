@@ -1,0 +1,40 @@
+@keyframes js {
+
+    /* 0% {
+        transform: translate(0, 0);
+    }
+
+    20% {
+        transform: translate(300px, 0px);
+    }
+
+    40% {
+        transform: translate(120px, 250px);
+    }
+
+    60% {
+        transform: translate(10px, 200px);
+    }
+
+    80%{
+        transform: translate(100px, 310px);
+    }
+
+    100% {
+        transform: translate(0, 0);
+    } */
+
+
+    0% {
+        transform: scale(1);
+    }
+
+    50% {
+        transform: scale(1.3);
+    }
+
+    100%{
+        transform: scale(1);
+    }
+
+}
